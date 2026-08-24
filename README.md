@@ -18,8 +18,6 @@
 
 - 🎓 IT Student
 - 🐍 Python Backend Developer
-- 🚀 Building **ASAR**
-- ♟️ Chess enjoyer
 - 🇰🇿 Kazakhstan
 
 ---
