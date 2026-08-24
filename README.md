@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Daurenbek Banner"/>
+  <img src="banner.png" width="100%" alt="Daurenbek Banner">
 </p>
 
 <h1 align="center">Hey, I'm Daurenbek 👋</h1>
