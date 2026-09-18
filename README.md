@@ -64,13 +64,7 @@ Built to connect students, simplify help requests and create a stronger communit
   <img src="https://streak-stats.demolab.com?user=DaurenbekGit&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaurenbekGit&theme=github-compact&hide_border=true" />
-</p>
 
 ---
 
