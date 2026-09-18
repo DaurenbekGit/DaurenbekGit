@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./dd84f6588183734e2d034a047492c019.jpg" width="100%" alt="Daurenbek Banner">
-</p>
-
 <h1 align="center">Hey, I'm Daurenbek 👋</h1>
 
 <p align="center">
