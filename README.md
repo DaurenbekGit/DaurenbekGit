@@ -26,6 +26,6 @@
 
 **Backend:** Python • FastAPI • SQLAlchemy • Aiogram  
 **Database:** PostgreSQL  
-**Tools:** Git • GitHub • Docker
+**Tools:** GitHub
 
 ---
