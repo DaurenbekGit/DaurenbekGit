@@ -29,18 +29,3 @@
 **Tools:** Git • GitHub • Docker
 
 ---
-
-## 🚀 Current Project
-
-### ASAR
-
-A social platform inspired by the Kazakh tradition of helping each other.
-
-Built to connect students, simplify help requests and create a stronger community.
-
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Aiogram`
-```
-
-<p align="center">
-  <i>Learn. Build. Improve. Repeat.</i>
-</p>
