@@ -24,8 +24,8 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,docker,github" />
 </p>
 
-**Backend:** Python • FastAPI • SQLAlchemy • Aiogram  
-**Database:** PostgreSQL  
+**Backend:** Python • FastAPI • SQLAlchemy • Aiogram • Java • CSS • HTML • JavaScript
+**Database:** PostgreSQL • MySQL
 **Tools:** GitHub
 
 ---
