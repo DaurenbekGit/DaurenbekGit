@@ -36,19 +36,3 @@
 | **Learning** | Spring Boot, Spring Security, JUnit |
 
 ---
-
-## 🚀 Featured Projects
-
-<!-- Replace with your real projects and links -->
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [project-name](https://github.com/USERNAME/project-name) | Short description of what it does | FastAPI, PostgreSQL |
-| [bot-name](https://github.com/USERNAME/bot-name) | Telegram bot that ... | Aiogram, SQLAlchemy |
-
----
-
-## 📫 Contact
-
-<!-- Add only the links you want to make public -->
-- Telegram: [@your_username](https://t.me/your_username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
