@@ -26,6 +26,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,java,postgres,mysql,docker,git,github,html,css,js" />
 </p>
+
+
 | Area | Technologies |
 |------|--------------|
 | **Backend** | Python, FastAPI, SQLAlchemy, Aiogram, Java |
