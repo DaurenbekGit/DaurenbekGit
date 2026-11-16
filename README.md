@@ -34,6 +34,6 @@
 | **Databases** | PostgreSQL, MySQL |
 | **Frontend** | HTML, CSS, JavaScript |
 | **Tools** | Git, GitHub, Docker |
-| **Learning** | Spring Boot, Spring Security, JUnit |
+
 
 ---
